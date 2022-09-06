@@ -19,3 +19,5 @@ def count_letters(string):
     return my_dict
 
 print(count_letters(val))
+
+#commit
