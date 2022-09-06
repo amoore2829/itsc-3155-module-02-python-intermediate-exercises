@@ -20,4 +20,3 @@ def count_letters(string):
 
 print(count_letters(val))
 
-#commit

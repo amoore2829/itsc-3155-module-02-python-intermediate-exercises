@@ -18,9 +18,6 @@ while x < 5:
     x = x + 1
 
 print('Your sum is: ', sum(num_list_1))
-
-#commit
-
         
         
 
