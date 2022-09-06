@@ -3,13 +3,7 @@
 #Under the function, write code that calls the function with a test list like so and print out the result. 
 #Remember that your code should work for all lists of integers, not just the sample test here.
 
-my_list = [1, 2, 3, 2, 1, 4]
+my_list = [8, 77, 23, 4, 4, 8]
 unique_list = list(set(my_list))
 print(unique_list)
-
-#for x in range (6):
-    #num = int(input(f'Enter number {x+1}: '))
-    #my_list.append(num)
-
-#print ('Nums that appear once: ', unique_list)
 
